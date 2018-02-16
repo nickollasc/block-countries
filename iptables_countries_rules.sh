@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyleft nickollascarvalho@gmil.com
+# Copyleft nickollascarvalho@gmail.com
 # block countries using iptables based on list with range of ips
  
 # download list with range of countries ips
